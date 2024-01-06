@@ -1,0 +1,10 @@
+1. Access database
+2. Filter data by specific query (eg: company, name, featured)
+3. Filter data by numeric query
+4. Regular Expression (regex)
+5. Filtering by replacing values with matching RegEx (multiple parameters at once)
+6. Filtering by replacing values with matching RegEx (single parameters)
+7. Sorting data on various parameters
+8. Display only specific fields
+9. Limiting output
+10. Pagination using skip function with limit func.
